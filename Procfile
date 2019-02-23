@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT shelby_l_jones_1058.wsgi:application
